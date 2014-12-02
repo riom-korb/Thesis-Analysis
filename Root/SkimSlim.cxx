@@ -1,3 +1,5 @@
+/****************************************************
+*****************************************************
 Author: Brock Moir
 This class iterates over the full 2011 ATLAS data set or a similar MC sample
 and locally stores physics events variables from identified events.
